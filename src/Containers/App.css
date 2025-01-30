@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT') url('../assets/SEGA.TTF') format('ttf');
+}
+
+h1 {
+   font-family: 'SEGA LOGO FONT';
+   font-weight: 200;
+   color: #5F0F40
+}
+
+.loading-container {
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	height: 100vh; 
+	width: 100vw; 
+}
+
+.loading-container img {
+	width: 100px; 
+	height: auto; 
+}
