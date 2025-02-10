@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//semajssor.github.io/robot_friends/static/css/main.359e5036.css",
+    "main.js": "//semajssor.github.io/robot_friends/static/js/main.3ffa42a7.js",
+    "static/js/488.75995a38.chunk.js": "//semajssor.github.io/robot_friends/static/js/488.75995a38.chunk.js",
+    "static/media/loading.gif": "//semajssor.github.io/robot_friends/static/media/loading.4b366325f17b85744c76.gif",
+    "static/media/SEGA.TTF": "//semajssor.github.io/robot_friends/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "//semajssor.github.io/robot_friends/index.html",
+    "main.359e5036.css.map": "//semajssor.github.io/robot_friends/static/css/main.359e5036.css.map",
+    "main.3ffa42a7.js.map": "//semajssor.github.io/robot_friends/static/js/main.3ffa42a7.js.map",
+    "488.75995a38.chunk.js.map": "//semajssor.github.io/robot_friends/static/js/488.75995a38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359e5036.css",
+    "static/js/main.3ffa42a7.js"
+  ]
+}
