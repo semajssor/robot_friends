@@ -6,7 +6,7 @@ import loadingGif from "../assets/loading.gif";
 import Scroll from "../Components/Scroll";
 import "./App.css";
 
-// function App extends Component {
+// Old version: class App extends Component {
 function App() {
 	// constructor() {
 	// 	super();
